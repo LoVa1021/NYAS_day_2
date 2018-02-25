@@ -12,4 +12,19 @@ This is `inline code`.
 
 $$f(x) = x^2$$
 
+$f(x) = x^2$
+
+* `git init`: initializes repository 
+
+* `git status` : tells us status of repository
+
+
+* `git add .` : adds files to repository, can be specifically by file or everything(. which means here)
+
+* `git commit`: dedicate myself to a version -m "" adds message to commit
+
+---
+
+### Tracking Changes
+
 
